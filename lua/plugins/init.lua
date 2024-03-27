@@ -95,6 +95,10 @@ local default_plugins = {
     end,
   },
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> aebb3cf (Adding lazygit and mapping)
   -- lsp stuff
   {
     "williamboman/mason.nvim",
